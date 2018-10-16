@@ -1,0 +1,5 @@
+int hour,days,hour_in_year;
+hour=24;
+day=365;
+hour_in_year=hour*day;
+print("hour in year is"+hour_in_year);
