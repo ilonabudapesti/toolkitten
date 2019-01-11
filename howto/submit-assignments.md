@@ -8,6 +8,6 @@
 
 (Note: We are currently fixing an issue regarding our Github Bot and the Github API, once it is resolved you should be able to work in your own fork)
 
-* When you are ready to submit, create a pull request from the 'develop' branch into the *master* branch.
+* When you are ready to submit, create a pull request from the *develop* branch into the *master* branch.
 
 * A 'to-review' tag will be added to the repo, letting us know that your homework is ready to be corrected.
