@@ -4,6 +4,10 @@
 
 * Click on the respective week's assignment link and accept the assignment
 
-* Fork the assignment repo
+* Wait for a couple of minutes - a new branch called 'develop' should appear. Do your work in this branch
 
-* When you are ready to submit, create a pull request from your fork into the *master* branch of the repo on 1mwtt-soc1
+(Note: We are currently fixing an issue regarding our Github Bot and the Github API, once it is resolved you should be able to work in your own fork)
+
+* When you are ready to submit, create a pull request from the 'develop' branch into the *master* branch.
+
+* A 'to-review' tag will be added to the repo, letting us know that your homework is ready to be corrected.
